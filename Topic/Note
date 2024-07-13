@@ -1,0 +1,21 @@
+what is Data Structure..?
+.Way to orgnaize data so that we can use this Data efficiently
+(data ko organize krna efficiently tarika se jise hum use kr ske)
+
+.example:-
+[8, 3, 5, 9, 6, 2, 7]
+[2, 3, 5, 6, ,7, 8, 9]
+
+What is Algorithm..?
+.Steps or a process to arrange data
+
+Operation of Data Structure
+➜traversal (kisi bhi vlue ko read krna ho to hum traversal ka use kr skte hain )
+➜Insertion (aap kisi bhi vlue mai agr aap ek new vlue add krna chahte ho to ➜Insertion ka use kre)
+➜Deletion (kisi bhi value ko delet krna ho to ➜Deletion ka use krte hai)
+➜searching (value mai se koi bhi element search krna hai )
+➜sorting (sorting ka mtlb ki kisi bhi value ko arrenge krna small se highest value ya highest se small value  )
+➜Merging (do ya do se jada value ko marg krna)
+Different Algorithm can be use for options
+
+
